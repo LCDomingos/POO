@@ -30,7 +30,7 @@ public class Desafio {
 
         float media = (primeiraNota+segundaNota)/2;
 
-        System.out.println("Sua media foi de: " + media);
+        System.out.println("Sua media foi: " + media);
 
     }
 }
