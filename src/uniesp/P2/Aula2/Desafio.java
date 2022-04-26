@@ -27,7 +27,6 @@ public class Desafio {
         System.out.println("Sua primeira nota: " + primeiraNota);
         System.out.println("Sua segunda nota: " + segundaNota);
         System.out.println("Numero de faltas: " + falta);
-
         float media = (primeiraNota+segundaNota)/2;
 
         System.out.println("Sua media foi: " + media);
