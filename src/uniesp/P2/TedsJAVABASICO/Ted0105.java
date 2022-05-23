@@ -28,6 +28,7 @@ public class Ted0105 {
         int[] impares = new int[y];
         x=0;
         y=0;
+//tentar colocar o lenght no codigo -----------------------------
         for (int i = 0; i < 4; i++) {
 
             if (valores[i] % 2 == 0){
